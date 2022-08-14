@@ -24,3 +24,6 @@ Limit is assigned as much as LIMIT MULTIPLIER. (Credit Result: Confirmation)
 
 **Notes :** *The credit limit multiplier is 4 by default.*
 
+---
+### Use Case Diagram
+![usecasediagram](https://user-images.githubusercontent.com/94866363/184557284-5cfb1d51-1df5-439c-9d64-fedce90c4ab9.png)
