@@ -27,3 +27,7 @@ Limit is assigned as much as LIMIT MULTIPLIER. (Credit Result: Confirmation)
 ---
 ### Use Case Diagram
 ![usecasediagram](https://user-images.githubusercontent.com/94866363/184557284-5cfb1d51-1df5-439c-9d64-fedce90c4ab9.png)
+
+---
+### UML Case Diagram
+![UMLCasediagram](https://user-images.githubusercontent.com/94866363/184557641-8f48d5fa-bebc-45c6-b6f0-feedfb1b7e19.png)
