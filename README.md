@@ -30,4 +30,4 @@ Limit is assigned as much as LIMIT MULTIPLIER. (Credit Result: Confirmation)
 
 ---
 ### UML Case Diagram
-![UMLCasediagram](https://user-images.githubusercontent.com/94866363/184557641-8f48d5fa-bebc-45c6-b6f0-feedfb1b7e19.png)
+![UMLCasediagram](https://user-images.githubusercontent.com/94866363/184608876-b34b503b-6010-4c79-89e9-778f314a3014.png)
